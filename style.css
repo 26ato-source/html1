@@ -1,0 +1,16 @@
+body {
+background-color: rgba(18, 18, 18, 1)}
+
+a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+div {
+    border: 1px solid black;
+    padding: 5px 5px 5px 5px;
+    background-image: url("banner.png");
+}
+
+th:hover {background-color: rgba(0, 0, 0, 0.5);}
